@@ -1,0 +1,41 @@
+ body {
+            font-family: sans-serif;
+            font-size: 15px;
+            color: black
+        }
+        li {
+            font-size: 14px;
+            font-style: oblique;
+            
+        } 
+.hmbg {
+    background-image: url('https://t4.ftcdn.net/jpg/02/10/45/95/240_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg');
+/*    background-position: top right;*/
+    background-size: 4500px;
+}
+
+.wat {
+    background-color: white;
+    border: 3px solid black;
+    position: absolute;
+}
+.header {
+    left: 2px;
+    right: 2px;
+    top: 2px;
+    height: 100px;
+
+}
+.footer {
+   top: 910px;
+    left: 2px;
+    right: 2px;
+    height: 800px;
+    
+}
+.mainbody {
+     top: 115px;
+    left: 2px;
+    right: 2px;
+    height: 780px;
+}
